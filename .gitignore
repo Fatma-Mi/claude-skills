@@ -1,0 +1,19 @@
+# Config locale / secrets — ne jamais publier
+settings.local.json
+settings.json
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
